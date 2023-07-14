@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- * main - enter point
+ * main : enter point
  * prints if a number is positive or negative
  * Return: 0
  */
