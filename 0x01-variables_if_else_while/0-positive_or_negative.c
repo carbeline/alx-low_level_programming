@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /*
- * main - prints the sign of a number
+ * main 
  * prints if a number is positive or negative
  * Return: 0
  */
