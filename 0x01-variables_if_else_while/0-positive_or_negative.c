@@ -2,8 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- * main : enter point
- * prints if a number is positive or negative
+ * main - enter point
+ * prints if a number is greater than 0 is positive
+ * if the number is 0 is zero
+ * if the number is less than 0 is negative
  * Return: 0
  */
 int main(void)
