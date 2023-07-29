@@ -1,1 +1,1 @@
-There are only 3 colors, 10 digits, and 7 notes; its what we do with them thats important
+Im federal agent Jack Bauer, and today is the longest day of my life
